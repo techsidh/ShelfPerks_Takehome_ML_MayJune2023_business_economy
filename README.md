@@ -11,3 +11,4 @@ In the first part of the project, the data is cleaned and manipulated. Followed 
 Three algorithms (Linear regression, Decision Tree and Random forest) are used to train the model to predict the price of flights for various airline companies. 
 
 Conclusion:
+It can be noticed that using all three algorithms resulted in almost same accuracy. The results did not change with the algorithms.
